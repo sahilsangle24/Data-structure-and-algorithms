@@ -1,65 +1,66 @@
-Data Structures and Algorithms in Java
+# Data Structures and Algorithms in Java
 
-This repository contains my practice and implementation of Data Structures and Algorithms using Java. The purpose is to strengthen problem-solving skills, improve logical thinking, and prepare for technical interviews and coding placements.
+This repository contains my practice and implementation of **Data Structures and Algorithms (DSA) using Java**. The purpose is to strengthen problem-solving skills, improve logical thinking, and prepare for technical interviews and coding placements.
 
-Objectives
+## Objectives
 
-Practice DSA concepts using Java.
+- Practice DSA concepts using Java.
+- Improve logical thinking and problem-solving abilities.
+- Understand different approaches to solving problems.
+- Learn efficient algorithms and coding techniques.
+- Analyze time and space complexity.
+- Write clean, readable, and optimized code.
 
-Improve logical thinking and problem-solving abilities.
+## Technologies & Tools
 
-Understand different approaches to solving problems.
+| Technology | Purpose |
+|---|---|
+| Java | Programming Language |
+| Visual Studio Code | Code Editor |
+| Git | Version Control |
+| GitHub | Code Hosting |
 
-Learn efficient algorithms and coding techniques.
+## How to Run
 
-Analyze time and space complexity.
+**1. Clone the repository**
 
-Write clean, readable, and optimized code.
-
-Technologies & Tools
-
-Programming Language: Java
-
-IDE: Visual Studio Code
-
-Version Control: Git
-
-Code Hosting: GitHub
-
-How to Run
-
-Clone the repository:
-
+```bash
 git clone https://github.com/sahilsangle24/Data-structure-and-algorithms.git
+```
 
-Navigate to the project:
+**2. Navigate to the project directory**
 
+```bash
 cd Data-structure-and-algorithms
+```
 
-Compile a Java program:
+**3. Compile a Java program**
 
+```bash
 javac patterns/SquarePattern.java
+```
 
-Run the program:
+**4. Run the program**
 
+```bash
 java -cp patterns SquarePattern
+```
 
-Practice Approach
+## Practice Approach
 
-Understand the problem before coding.
+- Understand the problem before coding.
+- Try to solve problems independently.
+- Test solutions with different inputs.
+- Focus on code readability and optimization.
+- Understand time and space complexity.
 
-Try to solve problems independently.
+## Author
 
-Test solutions with different inputs.
+**Sahil Sangale**
 
-Focus on code readability and optimization.
+- GitHub: [@sahilsangle24](https://github.com/sahilsangle24)
+- Repository: [Data Structures and Algorithms](https://github.com/sahilsangle24/Data-structure-and-algorithms)
 
-Understand time and space complexity.
+---
 
-Author
-
-Sahil Sangale
-
-GitHub: @sahilsangle24
-
-Consistent practice and continuous learning are the keys to becoming a better problem solver.
+*Consistent practice and continuous learning are the keys to becoming a better problem solver.*
